@@ -1,0 +1,12 @@
+[workstations]
+ryan-DS-Workstation
+
+[servers]
+monitor-SVR
+home-DNS
+home-logger
+
+[cameras]
+backyard
+front-door
+upstairs
